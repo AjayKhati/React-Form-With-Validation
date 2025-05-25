@@ -1,3 +1,25 @@
+Some screenshots of the registration form--
+
+Fist Page look-
+![Screenshot (8)](https://github.com/user-attachments/assets/153dd159-1d27-4439-ba11-5d21b841ce5e)
+
+After Filling Details-
+![Screenshot (9)](https://github.com/user-attachments/assets/a6f1fcff-d131-48a0-b3ba-f70a8f065adb)
+
+with some mistakes then validation works successfully and dont let user to submit the form-
+![Screenshot (10)](https://github.com/user-attachments/assets/5bc544dd-ee29-416f-b790-6d060936bf5f)
+
+after submitting correctly the subitted user details-
+![Screenshot (11)](https://github.com/user-attachments/assets/d32598c5-e01e-471f-80bd-80e72571457b)
+
+
+Thank you.
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
